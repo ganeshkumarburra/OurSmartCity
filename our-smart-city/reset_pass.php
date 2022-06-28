@@ -17,7 +17,7 @@
 		  	echo "success";
 			$_SESSION['otp-verified']=false;
 		} else {
-		  	echo "Some error occured. Report admin";
+		  	echo "Some error occured. Report Admin";
 		}
 	}
 ?>
